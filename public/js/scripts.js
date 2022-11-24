@@ -4,7 +4,7 @@
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
 */
 //
-// Cool Scripts
+// Adding to this branch
 // 
 
 window.addEventListener('DOMContentLoaded', event => {
